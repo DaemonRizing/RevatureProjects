@@ -1,0 +1,11 @@
+Things done in project 1:
+1.Set up a JDBC driver for the project to connect to a database
+2.Set up Daos and Dao Implements to prepare and send statements to a database to retrieve data
+3.Created Controllers to call methods from required Dao Implements to retrieve data 
+4.Created servlets to act as endpoints for http requests and pass on neccessary data to controllers as well as return retrieved data to the front end
+5.Created javascripts with AJAX requests to create HTTP requests to the server for a connection
+6.Created functions witin the javascripts to take retrieved data and fromat it on html files
+7.Created html files with general formatting for presentation
+8.Had html files call javascript files based off of what was to be displayed.
+9.Used JUnit testing to test functionality of project
+10.Did plenty of debugging and troubleshooting in regards to enpoints returning wrong data and general data formatting between the javascript and html files
